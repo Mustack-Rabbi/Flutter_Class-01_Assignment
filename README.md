@@ -4,14 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+আপনাদের একটি এ্যাপ ক্রিয়েট করতে হবে এবং সেটি রান করতে হবে (Android Studio বা VS Code যেকোনো একটিতেই প্রজেক্ট ক্রিয়েট করে রান করলেই হবে)। প্রজেক্ট ক্রিয়েট করার পর যেই কোডটি লিখা আছে, কমেন্টের মাধ্যমে প্রত্যেকটি লাইন বর্ননা করতে হবে। এছাড়াও এ্যপটির কালার, এ্যপবারের লিখা, লজিক এগুলো পরিবর্তন করতে হবে।
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Flutter_Class-01_Assignment
