@@ -79,7 +79,7 @@ Then...
 
 ### Image : 1/3
 
-![Flutter_Class-01_Assignment/redmeimgs/Class-01_Assignment_01.jpg)
+![Class-01_Assignment_01](Flutter_Class-01_Assignment/redmeimgs/Class-01_Assignment_01.jpg)
 
 ### Image : 2/3
 
